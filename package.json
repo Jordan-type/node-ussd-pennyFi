@@ -1,0 +1,20 @@
+{
+  "name": "ussd-pennyfi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^10.2.1",
+    "africastalking": "^0.6.2",
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.3",
+    "ussd-router": "^0.1.6"
+  }
+}
